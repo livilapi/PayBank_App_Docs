@@ -1,1 +1,3 @@
-# PayBank_App_Docs
+# Application is only a payment address
+
+
