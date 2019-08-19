@@ -226,14 +226,3 @@ TS=Date.parse(new Date())/1000&APPSECRET=appSecret).toUpCase()
 </tbody>
 </table>
 
-
-# Sample Response
-
-
-
-<pre><code>
-&lt;
-&gt;
-
-</code></pre>
-
